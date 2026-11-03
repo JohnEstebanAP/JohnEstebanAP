@@ -4,6 +4,21 @@
 
 # 👋 Hola, soy John Esteban Álvarez Piedrahita
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-02569B?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Android-Senior-3DDC84?style=for-the-badge&logo=android" />
+  <img src="https://img.shields.io/badge/iOS-Advanced-000000?style=for-the-badge&logo=apple" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-Advanced-7F52FF?style=for-the-badge&logo=kotlin" />
+  <img src="https://img.shields.io/badge/Swift-Intermediate-FA7343?style=for-the-badge&logo=swift" />
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-Advanced-4285F4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/English-C1-success?style=for-the-badge" />
+</p>
+
+
 ### Senior Mobile Software Engineer | Flutter • Android • Kotlin • Jetpack Compose
 
 🚀 6+ años construyendo aplicaciones móviles para millones de usuarios
@@ -115,38 +130,33 @@ A lo largo de mi carrera he trabajado con empresas como:
 - Prompt Engineering
 - Desarrollo con Python
 - Automatización de procesos
+  
+<h2 align="center">⚙️ GitHub Analytics</h2>
 
----
+<p align="center">
+  <a href="https://github.com/JohnEstebanAP">
+    <img height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api?username=JohnEstebanAP&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+      alt="GitHub Stats" />
+  </a>
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEstebanAP&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEstebanAP&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JohnEstebanAP&theme=tokyonight&no-frame=true&row=1" />
-
-</div>
-
----
-
-<p align = "center">
-	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
-</p>
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+  <a href="https://github.com/JohnEstebanAP">
+    <img height="180em"
+      src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohnEstebanAP&layout=compact&langs_count=8&theme=algolia"
+      alt="Top Languages" />
+  </a>
 </p>
 
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JohnEstebanAP&style=for-the-badge&color=blueviolet"
+       alt="Profile Views" />
+</p>
+
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JohnEstebanAP&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
 
 # 🎓 Educación
 
