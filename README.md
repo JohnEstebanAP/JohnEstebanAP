@@ -1,66 +1,147 @@
-<h1 align="center">Hola 👋  John Esteban alvarez</h1> 
-<h2 align="center">Senir Software developer</h2> 
-<h2 align="center">EXPECIALIZADO EN DESARROLLO MOBILE</h2> 
-<p align="center">
-  <a href="https://www.youtube.com/@uveantonio4094/videos" target="_blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@Anton-dev3306"  /></a>
-<a href="https://www.linkedin.com/in/antonio-dev-b71146213/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="@Anton-dev3306"/></a>
-<a href = "mailto:antonioestudiante15@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@Anton-dev3306"  /></a>
-  </p>
-<br>
-<h1 align=center>Sobre mi 😃</h1>
-<!--Intro start-->
+<div align="center">
+
+# 👋 Hola, soy John Esteban Álvarez Piedrahita
+
+### Senior Mobile Software Engineer | Flutter • Android • Kotlin • Jetpack Compose
+
+🚀 6+ años construyendo aplicaciones móviles para millones de usuarios
+
+💳 Participé en el desarrollo de **Mi Bancolombia** desde etapas tempranas hasta su lanzamiento y evolución
+
+📱 Especializado en **Flutter, Android Nativo, Jetpack Compose, Clean Architecture y Arquitecturas Escalables**
+
+🤖 Apasionado por la integración de **Inteligencia Artificial** en productos móviles
+
+</div>
+
+---
+
+## 🌎 Conecta conmigo
 
 <div align="center">
- 🎓 INGENIERO INFORMÁTICO
-💻 Desarrollador full-stack e IA developer
 
-📫 Contacto: **antonioestudiante15@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-alvarez-piedrahita)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JohnEstebanAP)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnalvarezpiedrahita@gmail.com)
+
 </div>
 
+---
 
-<br>
+# 🚀 Sobre mí
 
-<h1 align=center>Tecnologías conocidas👨🏻‍💻</h1>
-<!--tech stack icons-->
-<div align=center>
-   <h3>Frontend</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,astro,tailwind&theme=light" />
-  </a>
-  <h3>Backend</h3>
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,java,spring,postman,postgres,hibernate,docker&theme=light" />
-  </a>
-   <h3>AI Engineering</h3>
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,supabase,bots&theme=light" />
-  </a>
-    <h3>Tools</h3>
-     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linkedin&theme=light" />
-  </a>
-  </div>
-<br>
-<div align=center>
-  <h1> Mis estadisticas </h1> 
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" align=center> 
-<br>
-  </div>
-<div align=center>
-<!--- stats & Trophy (start) -->
-<a href="https://github.com/Anton-dev3306">
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api?username=Anton-dev3306&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em"  width=42% src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Anton-dev3306&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+Soy un **Senior Mobile Software Engineer** con experiencia desarrollando productos de alto impacto en sectores financieros, retail y tecnología.
+
+A lo largo de mi carrera he trabajado con empresas como:
+
+- 🏦 Bancolombia
+- 🛒 Grupo Éxito
+- 🛍️ Carulla
+- 🤖 Hibot
+- 💻 PersonalSoft
+- 🚀 Sofka Technologies
+
+### Logros destacados
+
+✅ Participé en la construcción de **Mi Bancolombia**, aplicación que superó los **1.5 millones de usuarios activos**
+
+✅ Lideré la implementación completa de **Deep Links** mediante integración del SDK de Singular
+
+✅ Participé en la migración de Flutter **3.4 → 3.10**
+
+✅ Implementé soluciones de autenticación y seguridad para plataformas CIAM
+
+✅ Publicación y mantenimiento de aplicaciones en **Google Play Store** y **Apple App Store**
+
+✅ Integración de SDKs internacionales y trabajo con equipos globales
+
+---
+
+# 🛠️ Stack Principal
+
+### Mobile Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,java,dart,androidstudio" />
+</p>
+
+### Android
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=kotlin,java" />
+</p>
+
+**Experiencia en**
+
+- Jetpack Compose
+- MVVM
+- Clean Architecture
+- Modular Architecture
+- Dependency Injection
+- Room Database
+- Coroutines
+- Flow
+- Navigation Compose
+
+---
+
+### Backend & APIs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,aws" />
+</p>
+
+---
+
+### DevOps & Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman" />
+</p>
+
+---
+
+### Inteligencia Artificial
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Integración de IA en aplicaciones móviles
+- Prompt Engineering
+- Desarrollo con Python
+- Automatización de procesos
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohnEstebanAP&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnEstebanAP&layout=compact&theme=tokyonight"/>
+
 </div>
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Anton-dev3306&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JohnEstebanAP&theme=tokyonight&no-frame=true&row=1" />
+
 </div>
 
-------
-[Anton-dev3306](https://github.com/Anton-dev3306)
+---
 
-Last Edited on: 12/07/2025
+# 🎓 Educación
+
+🎓 Ingeniería de Software  
+**Institución Universitaria Pascual Bravo**
+
+🎓 Tecnólogo en Desarrollo de Software  
+**
