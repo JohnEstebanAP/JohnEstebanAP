@@ -154,10 +154,6 @@ A lo largo de mi carrera he trabajado con empresas como:
        alt="Profile Views" />
 </p>
 
- <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JohnEstebanAP&style=plastic&color=blueviolet" alt="Profile Views"/>
-</p>
-
 # 🎓 Educación
 
 🎓 Ingeniería de Software  
